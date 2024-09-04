@@ -1,4 +1,4 @@
-baseURL = 'https://kraiyan.github.io/'
+baseURL = 'https://kraiyan.github.io/raiyanwrites'
 languageCode = 'en-us'
 title = 'Raiyan Writes '
 theme="hugo-blog-awesome"
