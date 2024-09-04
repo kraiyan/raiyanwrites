@@ -1,0 +1,4 @@
+baseURL = 'https://kraiyan.github.io/'
+languageCode = 'en-us'
+title = 'Raiyan Writes'
+theme="hugo-blog-awesome"
