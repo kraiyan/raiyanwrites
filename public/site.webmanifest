@@ -1,7 +1,7 @@
 {
     "name": "Raiyan Writes ",
     "short_name": "Raiyan Writes ",
-    "start_url": "https://kraiyan.github.io/",
+    "start_url": "http://localhost:55458/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",
