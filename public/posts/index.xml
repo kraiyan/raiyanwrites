@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Raiyan Writes </title>
-    <link>https://kraiyan.github.io/raiyanwrites/posts/</link>
+    <link>https://kraiyan.github.io/posts/</link>
     <description>Recent content in Posts on Raiyan Writes </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Sep 2024 21:09:41 +0530</lastBuildDate><atom:link href="https://kraiyan.github.io/raiyanwrites/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Sep 2024 21:09:41 +0530</lastBuildDate><atom:link href="https://kraiyan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Raiyan Writes</title>
-      <link>https://kraiyan.github.io/raiyanwrites/posts/myfirst/</link>
+      <link>https://kraiyan.github.io/posts/myfirst/</link>
       <pubDate>Wed, 04 Sep 2024 21:09:41 +0530</pubDate>
       
-      <guid>https://kraiyan.github.io/raiyanwrites/posts/myfirst/</guid>
+      <guid>https://kraiyan.github.io/posts/myfirst/</guid>
       
       <description>&lt;p&gt;This is my first blog to test my new place&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;hello world from Raiyan !!&amp;#34;&lt;/span&gt;)
