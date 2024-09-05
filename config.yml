@@ -1,11 +1,11 @@
-baseURL: "https://kraiyan.github.io/"
+baseURL: "https://rkblogs.netlify.app/"
 languageCode: en-us
 title: Demo for Hugo
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Hello Stranger"
+    Title: "Hello Stranger !! I am Raiyan"
     Content: Welcome to my blog. Here you'll find a lot of cool information about a lot of cool stuff.
   socialIcons:
     - name: facebook
