@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rkblogs.netlify.app/categories/</loc>
+    <loc>https://rkwrites.netlify.app/categories/</loc>
     <lastmod>2021-08-25T11:30:04+03:00</lastmod>
   </url><url>
-    <loc>https://rkblogs.netlify.app/tags/css/</loc>
+    <loc>https://rkwrites.netlify.app/tags/css/</loc>
     <lastmod>2021-08-25T11:30:04+03:00</lastmod>
   </url><url>
-    <loc>https://rkblogs.netlify.app/tags/html/</loc>
+    <loc>https://rkwrites.netlify.app/tags/html/</loc>
     <lastmod>2021-08-25T11:30:04+03:00</lastmod>
   </url><url>
-    <loc>https://rkblogs.netlify.app/posts/</loc>
+    <loc>https://rkwrites.netlify.app/posts/</loc>
     <lastmod>2021-08-25T11:30:04+03:00</lastmod>
   </url><url>
-    <loc>https://rkblogs.netlify.app/</loc>
+    <loc>https://rkwrites.netlify.app/</loc>
     <lastmod>2021-08-25T11:30:04+03:00</lastmod>
   </url><url>
-    <loc>https://rkblogs.netlify.app/tags/</loc>
+    <loc>https://rkwrites.netlify.app/tags/</loc>
     <lastmod>2021-08-25T11:30:04+03:00</lastmod>
   </url><url>
-    <loc>https://rkblogs.netlify.app/categories/tech/</loc>
+    <loc>https://rkwrites.netlify.app/categories/tech/</loc>
     <lastmod>2021-08-25T11:30:04+03:00</lastmod>
   </url><url>
-    <loc>https://rkblogs.netlify.app/posts/first/</loc>
+    <loc>https://rkwrites.netlify.app/posts/first/</loc>
     <lastmod>2021-08-25T11:30:04+03:00</lastmod>
   </url><url>
-    <loc>https://rkblogs.netlify.app/archives/</loc>
+    <loc>https://rkwrites.netlify.app/archives/</loc>
   </url>
 </urlset>
