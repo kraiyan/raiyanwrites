@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Demo for Hugo</title>
-    <link>https://kraiyan.github.io/raiyanwrites/posts/</link>
+    <link>https://kraiyan.github.io/posts/</link>
     <description>Recent content in Posts on Demo for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Aug 2021 11:30:04 +0300</lastBuildDate><atom:link href="https://kraiyan.github.io/raiyanwrites/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Aug 2021 11:30:04 +0300</lastBuildDate><atom:link href="https://kraiyan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second post</title>
-      <link>https://kraiyan.github.io/raiyanwrites/posts/second/</link>
+      <link>https://kraiyan.github.io/posts/second/</link>
       <pubDate>Wed, 25 Aug 2021 11:30:04 +0300</pubDate>
       
-      <guid>https://kraiyan.github.io/raiyanwrites/posts/second/</guid>
+      <guid>https://kraiyan.github.io/posts/second/</guid>
       <description>&lt;p&gt;This is the second post.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>This is the first post on Hugo</title>
-      <link>https://kraiyan.github.io/raiyanwrites/posts/first/</link>
+      <link>https://kraiyan.github.io/posts/first/</link>
       <pubDate>Wed, 25 Aug 2021 11:30:04 +0300</pubDate>
       
-      <guid>https://kraiyan.github.io/raiyanwrites/posts/first/</guid>
+      <guid>https://kraiyan.github.io/posts/first/</guid>
       <description>&lt;h1 id=&#34;this-is-a-heading-one&#34;&gt;This is a heading one&lt;/h1&gt;
 &lt;h2 id=&#34;this-is-a-heading-two&#34;&gt;This is a heading two&lt;/h2&gt;
 &lt;p&gt;This is a paragraph.&lt;/p&gt;</description>
