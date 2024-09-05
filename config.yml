@@ -1,6 +1,6 @@
 baseURL: "https://rkblogs.netlify.app/"
 languageCode: en-us
-title: Demo for Hugo
+title: RK Writes
 theme: PaperMod
 
 params:
@@ -8,12 +8,14 @@ params:
     Title: "Hello Stranger !! I am Raiyan"
     Content: Welcome to my blog. Here you'll find a lot of cool information about a lot of cool stuff.
   socialIcons:
-    - name: facebook
-      url: "https://facebook.com/"
+    - name: portfolio
+      url: "https://kraiyan.github.io"
+    - name: medium
+      url: "https://medium.com/@kraiyan466"
     - name: twitter
-      url: "https://twitter.com/"
+      url: "https://x.com/khanraiyan14"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/kraiyan"
 
   cover:
     linkFullImages: true

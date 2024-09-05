@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tech on Demo for Hugo</title>
+    <title>Tech on RK Writes</title>
     <link>https://rkblogs.netlify.app/categories/tech/</link>
-    <description>Recent content in Tech on Demo for Hugo</description>
+    <description>Recent content in Tech on RK Writes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Aug 2021 11:30:04 +0300</lastBuildDate><atom:link href="https://rkblogs.netlify.app/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This is the first post on Hugo</title>
+      <title>Welcome to my blogs!</title>
       <link>https://rkblogs.netlify.app/posts/first/</link>
       <pubDate>Wed, 25 Aug 2021 11:30:04 +0300</pubDate>
       
       <guid>https://rkblogs.netlify.app/posts/first/</guid>
-      <description>&lt;h1 id=&#34;this-is-a-heading-one&#34;&gt;This is a heading one&lt;/h1&gt;
-&lt;h2 id=&#34;this-is-a-heading-two&#34;&gt;This is a heading two&lt;/h2&gt;
+      <description>&lt;h1 id=&#34;in-this-space-i-will-share-my-life-lessons-related-to-tech-and-in-general&#34;&gt;In this Space I will share my life lessons related to tech and in general.&lt;/h1&gt;
+&lt;h2 id=&#34;i-aslo-want-to-expand-reach-to-other-audience-with-this-communication-framework&#34;&gt;I aslo want to expand reach to other audience with this communication framework.&lt;/h2&gt;
 &lt;p&gt;This is a paragraph.&lt;/p&gt;</description>
     </item>
     
