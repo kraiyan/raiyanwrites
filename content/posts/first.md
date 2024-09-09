@@ -12,5 +12,3 @@ categories: ["tech"]
 
 # In this Space I will share my life lessons related to tech and in general.
 ## I aslo want to expand reach to other audience with this communication framework.
-
-This is a paragraph.
