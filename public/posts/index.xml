@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on RK Writes</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://raiyanwrites.vercel.app/posts/</link>
     <description>Recent content in Posts on RK Writes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Sep 2024 10:00:00 +0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Aug 2024 10:00:00 +0600</lastBuildDate><atom:link href="https://raiyanwrites.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript Basic Concepts of Map</title>
+      <link>https://raiyanwrites.vercel.app/posts/javascript-maps/</link>
+      <pubDate>Mon, 12 Aug 2024 10:00:00 +0600</pubDate>
+      
+      <guid>https://raiyanwrites.vercel.app/posts/javascript-maps/</guid>
+      <description>Understanding the basic concepts of the JavaScript Map object, including how it works, use cases, and examples.</description>
+    </item>
+    
     <item>
       <title>Welcome to my blogs!</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>https://raiyanwrites.vercel.app/posts/first/</link>
       <pubDate>Wed, 25 Aug 2021 11:30:04 +0300</pubDate>
       
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>https://raiyanwrites.vercel.app/posts/first/</guid>
       <description>&lt;h1 id=&#34;in-this-space-i-will-share-my-life-lessons-related-to-tech-and-in-general&#34;&gt;In this Space I will share my life lessons related to tech and in general.&lt;/h1&gt;
 &lt;h2 id=&#34;i-aslo-want-to-expand-reach-to-other-audience-with-this-communication-framework&#34;&gt;I aslo want to expand reach to other audience with this communication framework.&lt;/h2&gt;</description>
     </item>

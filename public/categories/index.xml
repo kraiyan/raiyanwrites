@@ -2,17 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on RK Writes</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://raiyanwrites.vercel.app/categories/</link>
     <description>Recent content in Categories on RK Writes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Aug 2021 11:30:04 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Aug 2024 10:00:00 +0600</lastBuildDate><atom:link href="https://raiyanwrites.vercel.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript</title>
+      <link>https://raiyanwrites.vercel.app/categories/javascript/</link>
+      <pubDate>Mon, 12 Aug 2024 10:00:00 +0600</pubDate>
+      
+      <guid>https://raiyanwrites.vercel.app/categories/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>https://raiyanwrites.vercel.app/categories/web-development/</link>
+      <pubDate>Mon, 12 Aug 2024 10:00:00 +0600</pubDate>
+      
+      <guid>https://raiyanwrites.vercel.app/categories/web-development/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Tech</title>
-      <link>http://localhost:1313/categories/tech/</link>
+      <link>https://raiyanwrites.vercel.app/categories/tech/</link>
       <pubDate>Wed, 25 Aug 2021 11:30:04 +0300</pubDate>
       
-      <guid>http://localhost:1313/categories/tech/</guid>
+      <guid>https://raiyanwrites.vercel.app/categories/tech/</guid>
       <description></description>
     </item>
     

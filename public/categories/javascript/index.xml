@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>JavaScript on RK Writes</title>
-    <link>http://localhost:1313/categories/javascript/</link>
+    <link>https://raiyanwrites.vercel.app/categories/javascript/</link>
     <description>Recent content in JavaScript on RK Writes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Aug 2024 10:00:00 +0600</lastBuildDate><atom:link href="http://localhost:1313/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Aug 2024 10:00:00 +0600</lastBuildDate><atom:link href="https://raiyanwrites.vercel.app/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JavaScript Basic Concepts of Map</title>
-      <link>http://localhost:1313/posts/javascript-maps/</link>
+      <link>https://raiyanwrites.vercel.app/posts/javascript-maps/</link>
       <pubDate>Mon, 12 Aug 2024 10:00:00 +0600</pubDate>
       
-      <guid>http://localhost:1313/posts/javascript-maps/</guid>
+      <guid>https://raiyanwrites.vercel.app/posts/javascript-maps/</guid>
       <description>Understanding the basic concepts of the JavaScript Map object, including how it works, use cases, and examples.</description>
     </item>
     
